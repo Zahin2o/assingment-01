@@ -13,11 +13,13 @@
     top: 60%;
     width: 100%;
     font-size: 20px;
+    margin-right: 50px;
 }
 .banner{
     width: 50%;
     padding: auto;
     margin: 20px 20px x;
+   
     
     
 
@@ -63,21 +65,44 @@
     font-size: 30px;
 }
 /* 4rth part */
-.box{
-    background-image: url(/images/watch.png) ;
-    
+ 
+  
+ .box{
     background-repeat: no-repeat;
     padding: 10px;
     height: 300px;
-    width: 1000px;
+    width: 2000px;
     margin: 200px;
+ }   
+    
+ 
+#pic{
+    position: relative;
+}
+.watch{
+    width: 600px;
+    height: 200px;
    
+    background-repeat: no-repeat;
+}
+.colour{
+    width: 900px;
+    height: 250px;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-image: url(/images/watch.png);
+    border-radius: 10px;
+
+}
+    
     
    
 
-}
+
 .mindset{
     font-size: 30px;
+    position:absolute;
+    
 
 }
 .btn-two{
@@ -89,6 +114,8 @@
   border-radius: 5px;
   color:white;
   border-style: none ;
+  margin-left: 10px;
+  margin-top: 100px;
 }
 /* section 5 */
 .footer{
