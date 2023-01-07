@@ -37,8 +37,8 @@
 }
 /* 2nd div */
 .listfail{
-    list-style-type:decimal;
-   
+    
+    list-style:decimal;
 }
 .failor-list{
     display: flex;
@@ -63,3 +63,59 @@
     font-size: 30px;
 }
 /* 4rth part */
+.box{
+    background-image: url(/images/watch.png) ;
+    
+    background-repeat: no-repeat;
+    padding: 10px;
+    height: 300px;
+    width: 1000px;
+    margin: 200px;
+   
+    
+   
+
+}
+.mindset{
+    font-size: 30px;
+
+}
+.btn-two{
+    text-align:left;
+  position:absolute;
+  background-color: coral;
+  padding:20px; 
+  font-size:20px ; 
+  border-radius: 5px;
+  color:white;
+  border-style: none ;
+}
+/* section 5 */
+.footer{
+    display: flex;
+    gap: 200px;
+    background-color: black;
+    color: white;
+}
+.write{
+   width: 50%;
+   margin-right: 50px;
+   padding: 20px;
+
+}
+.email{
+width: 50%;
+margin-left: 200px;
+padding: 10px;
+
+}
+.big{
+    background-color: white;
+    position: absolute;
+    border-style: none;
+    
+}
+.icon{
+    display: flex;
+    gap: 30px;
+}
