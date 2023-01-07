@@ -1,0 +1,53 @@
+.header{
+    text-align:right;
+    position:absolute;
+    top: 50%;
+    width: 100%; 
+    font-size:50px;
+    margin-right: 80px;
+   
+}
+.pera{
+    text-align: right ;
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    font-size: 20px;
+}
+.banner{
+    width: 50%;
+    padding: auto;
+    margin: 20px 20px x;
+    
+    
+
+}
+.topbtn{
+    text-align:left;
+    top:70%;
+  position:absolute;
+  left:60% ;
+  background-color: coral;
+  padding:20px; 
+  font-size:20px ; 
+  border-radius: 5px;
+  color:white;
+  border-style: none ;
+
+}
+/* 2nd div */
+.listfail{
+    list-style-type:decimal;
+   
+}
+.failor-list{
+    display: flex;
+    
+}
+.second{
+    margin-top: 250px;
+    margin-right: 100px;
+}
+.failor-list img{
+   color: rgba(0, 255, 255, 0.384);
+}
