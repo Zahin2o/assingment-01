@@ -90,7 +90,7 @@
     height: 250px;
     position: absolute;
     background-repeat: no-repeat;
-    background-image: url(/images/watch.png);
+    background-image: url(./images/watch.png);
     border-radius: 10px;
 
 }
