@@ -51,3 +51,15 @@
 .failor-list img{
    color: rgba(0, 255, 255, 0.384);
 }
+/* 3rd part */
+.plans{
+    display: flex;
+    gap: 200px;
+    text-align: center;
+    margin-left: 200px;
+}
+.plan-head{
+    text-align: center;
+    font-size: 30px;
+}
+/* 4rth part */
